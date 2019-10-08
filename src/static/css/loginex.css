@@ -1,0 +1,4 @@
+.loginex {height:100%; position:relative;}
+.loginex > .form {position:absolute;}
+.loginex > .form {width:400px; left:50%; margin-left:-250px;}
+.loginex > .form {top:50%; -webkit-transform:translateY(-50%); transform:translateY(-50%);}
